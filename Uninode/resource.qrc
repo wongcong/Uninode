@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/Icon">
+        <file>uninode.ico</file>
+    </qresource>
+</RCC>
